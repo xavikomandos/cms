@@ -1,0 +1,17 @@
+{
+    "name": "xavikomandos/cms",
+    "description": "Prosty system CMS do strony z memami",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "xavikomandos\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ksawery Szwichtenberg",
+            "email": "ksaweryszwarceneger@.gmail.com"
+        }
+    ],
+    "require": {}
+}
